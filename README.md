@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giddens
+- 👋 Hi, I’m @ivbotov
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 
